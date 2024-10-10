@@ -1,0 +1,13 @@
+{
+    "string": "hello",
+    "this" : "new",
+    "json": {
+        "num": -1
+    },
+    "number": 10.0,
+    "hey": {
+        "strunt": "hi",
+        "num": -123456
+    }
+    
+}
